@@ -1,3 +1,9 @@
+> [!Note]
+现在官方唯一仓库是https://github.com/One-Clip/OneClip  
+> 2626/7/17起此仓库已经停止维护，反馈请去上述仓库
+
+----
+
 <p align="right">
   <a href="README_EN.md">English</a> · <b>中文</b>
 </p>
